@@ -1,0 +1,1 @@
+1e9d56cb-edcc-4f64-916f-411b04d38c5b autoenable=true bucket=cneuromod.triplets.eyetrackprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.triplets.eyetrackprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1791387682s
